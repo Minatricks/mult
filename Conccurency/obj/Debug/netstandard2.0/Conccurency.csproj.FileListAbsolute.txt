@@ -1,0 +1,9 @@
+C:\Users\Dima\source\repos\Conccurency\Conccurency\bin\Debug\netstandard2.0\Conccurency.deps.json
+C:\Users\Dima\source\repos\Conccurency\Conccurency\bin\Debug\netstandard2.0\Conccurency.dll
+C:\Users\Dima\source\repos\Conccurency\Conccurency\obj\Debug\netstandard2.0\Conccurency.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\Conccurency\Conccurency\obj\Debug\netstandard2.0\Conccurency.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Conccurency\Conccurency\obj\Debug\netstandard2.0\Conccurency.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\Conccurency\Conccurency\obj\Debug\netstandard2.0\Conccurency.AssemblyInfo.cs
+C:\Users\Dima\source\repos\Conccurency\Conccurency\bin\Debug\netstandard2.0\Conccurency.pdb
+C:\Users\Dima\source\repos\Conccurency\Conccurency\obj\Debug\netstandard2.0\Conccurency.dll
+C:\Users\Dima\source\repos\Conccurency\Conccurency\obj\Debug\netstandard2.0\Conccurency.pdb

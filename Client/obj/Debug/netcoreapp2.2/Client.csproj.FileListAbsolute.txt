@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\Conccurency\Client\bin\Debug\netcoreapp2.2\Conccurency.dll
+C:\Users\Dima\source\repos\Conccurency\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\Conccurency\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\Conccurency\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\Conccurency\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+C:\Users\Dima\source\repos\Conccurency\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+C:\Users\Dima\source\repos\Conccurency\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+C:\Users\Dima\source\repos\Conccurency\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+C:\Users\Dima\source\repos\Conccurency\Client\bin\Debug\netcoreapp2.2\Client.dll
+C:\Users\Dima\source\repos\Conccurency\Client\bin\Debug\netcoreapp2.2\Client.pdb
+C:\Users\Dima\source\repos\Conccurency\Client\bin\Debug\netcoreapp2.2\Conccurency.pdb
+C:\Users\Dima\source\repos\Conccurency\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
+C:\Users\Dima\source\repos\Conccurency\Client\obj\Debug\netcoreapp2.2\Client.dll
+C:\Users\Dima\source\repos\Conccurency\Client\obj\Debug\netcoreapp2.2\Client.pdb
